@@ -1,2 +1,2 @@
 # A-Low-Swing-Differential-Signaling
-A Low Swing Differential Signaling Simulation
+Calculate the delay for the article "A Low Swing Differential Signaling Simulation"
